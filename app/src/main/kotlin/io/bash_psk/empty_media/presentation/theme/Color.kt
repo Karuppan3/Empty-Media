@@ -1,0 +1,68 @@
+package io.bash_psk.empty_media.presentation.theme
+
+import androidx.compose.material3.darkColorScheme
+import androidx.compose.material3.lightColorScheme
+
+val DarkColorScheme = darkColorScheme(
+    primary = DarkTheme.Primary,
+    onPrimary = DarkTheme.OnPrimary,
+    primaryContainer = DarkTheme.PrimaryContainer,
+    onPrimaryContainer = DarkTheme.OnPrimaryContainer,
+    inversePrimary = DarkTheme.InversePrimary,
+    secondary = DarkTheme.Secondary,
+    onSecondary = DarkTheme.OnSecondary,
+    secondaryContainer = DarkTheme.SecondaryContainer,
+    onSecondaryContainer = DarkTheme.OnSecondaryContainer,
+    tertiary = DarkTheme.Tertiary,
+    onTertiary = DarkTheme.OnTertiary,
+    tertiaryContainer = DarkTheme.TertiaryContainer,
+    onTertiaryContainer = DarkTheme.OnTertiaryContainer,
+    error = DarkTheme.Error,
+    onError = DarkTheme.OnError,
+    errorContainer = DarkTheme.ErrorContainer,
+    onErrorContainer = DarkTheme.OnErrorContainer,
+    background = DarkTheme.Background,
+    onBackground = DarkTheme.OnBackground,
+    surface = DarkTheme.Surface,
+    onSurface = DarkTheme.OnSurface,
+    inverseSurface = DarkTheme.InverseSurface,
+    inverseOnSurface = DarkTheme.InverseOnSurface,
+    surfaceVariant = DarkTheme.SurfaceVariant,
+    onSurfaceVariant = DarkTheme.OnSurfaceVariant,
+    surfaceTint = DarkTheme.SurfaceTint,
+    outline = DarkTheme.Outline,
+    outlineVariant = DarkTheme.OutlineVariant,
+    scrim = DarkTheme.Scrim
+)
+
+val LightColorScheme = lightColorScheme(
+    primary = LightTheme.Primary,
+    onPrimary = LightTheme.OnPrimary,
+    primaryContainer = LightTheme.PrimaryContainer,
+    onPrimaryContainer = LightTheme.OnPrimaryContainer,
+    inversePrimary = LightTheme.InversePrimary,
+    secondary = LightTheme.Secondary,
+    onSecondary = LightTheme.OnSecondary,
+    secondaryContainer = LightTheme.SecondaryContainer,
+    onSecondaryContainer = LightTheme.OnSecondaryContainer,
+    tertiary = LightTheme.Tertiary,
+    onTertiary = LightTheme.OnTertiary,
+    tertiaryContainer = LightTheme.TertiaryContainer,
+    onTertiaryContainer = LightTheme.OnTertiaryContainer,
+    error = LightTheme.Error,
+    onError = LightTheme.OnError,
+    errorContainer = LightTheme.ErrorContainer,
+    onErrorContainer = LightTheme.OnErrorContainer,
+    background = LightTheme.Background,
+    onBackground = LightTheme.OnBackground,
+    surface = LightTheme.Surface,
+    onSurface = LightTheme.OnSurface,
+    inverseSurface = LightTheme.InverseSurface,
+    inverseOnSurface = LightTheme.InverseOnSurface,
+    surfaceVariant = LightTheme.SurfaceVariant,
+    onSurfaceVariant = LightTheme.OnSurfaceVariant,
+    surfaceTint = LightTheme.SurfaceTint,
+    outline = LightTheme.Outline,
+    outlineVariant = LightTheme.OutlineVariant,
+    scrim = LightTheme.Scrim
+)
